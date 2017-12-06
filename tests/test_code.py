@@ -17,3 +17,5 @@ def test_integrate_trapz_1():
 def test_integrate_trapz_failure():
     with pytest.raises(Exception):
         integrate_trapz("Some", "Values")
+
+# some arbitrary change to force a commit push to test travis
