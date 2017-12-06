@@ -1,10 +1,9 @@
 # WorkshopExample
 
 [![Coverage Status](https://codecov.io/gh/nanojeff/WorkshopExample/branch/master/graph/badge.svg)](https://codecov.io/gh/nanojeff/WorkshopExample)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ea7ca374a79c4321952715a228a454f0)](https://www.codacy.com/app/nanojeff/WorkshopExample?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nanojeff/WorkshopExample&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e1a33d40ac194cf19173b7bb2346f1bf)](https://www.codacy.com/app/nanojeff/WorkshopExample?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nanojeff/WorkshopExample&amp;utm_campaign=Badge_Grade)
 [![Build Status](https://img.shields.io/travis/nanojeff/WorkshopExample.svg)](https://travis-ci.org/nanojeff/WorkshopExample)
 [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/nanojeff/blob/master/LICENSE)
-
 A small github repo used as an example for the coding workshop!
 
 ### [Access the online doco here!](http://nanojeff.github.io/WorkshopExample)
